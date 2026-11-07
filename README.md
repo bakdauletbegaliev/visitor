@@ -2,8 +2,6 @@
 
 **Student:** Begaliev Bakdaulet  
 **Group:** SE-2526  
-**Course:** Software Design Patterns (ShP-2216)  
-**Java:** 17 | **Build:** Maven  
 **GitHub:** https://github.com/bakdauletbegaliev/visitor
 
 ## What does the project do?
